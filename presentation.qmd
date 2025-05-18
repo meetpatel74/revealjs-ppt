@@ -1,0 +1,88 @@
+---
+title: "The Psychology of Procrastination: Why We Delay and How to Overcome It"
+author: "Meet Patel 76842"
+format:
+  revealjs:
+    theme: solarized
+    slide-number: true
+    navigation-mode: vertical
+    logo: https://upload.wikimedia.org/wikipedia/commons/4/4f/Iconic_image_of_the_Internet.png
+    toc: true
+    incremental: true
+---
+
+# Introduction
+
+Procrastination is a universal challenge—especially in science and tech fields where innovation and deadlines collide. Why do we delay, and how can we use science and technology to overcome it?
+
+---
+
+## What is Procrastination?
+
+- The act of delaying tasks despite knowing there may be negative consequences
+- Not just laziness: often linked to emotional regulation and cognitive control
+- Affects students, researchers, developers, and professionals alike
+
+![Brain scan](https://upload.wikimedia.org/wikipedia/commons/6/6b/Brain_MRI.jpg)
+
+---
+
+## The Science Behind Procrastination
+
+- Linked to the limbic system (emotion) vs. prefrontal cortex (planning)
+- Temporal discounting: we value immediate rewards over future gains
+- Up to 20% of adults are chronic procrastinators (Steel, 2007)
+
+---
+
+## Procrastination in Tech & Science
+
+- "I'll automate this later..." — common in coding and research
+- Open-ended projects and unclear goals increase procrastination
+- Tech distractions (social media, notifications) amplify the problem
+
+![Tech distractions](https://images.unsplash.com/photo-1519389950473-47ba0277781c)
+
+---
+
+## Why Do We Delay? (Neuroscience)
+
+- fMRI: Increased amygdala (emotion) activity during procrastination
+- Prefrontal cortex (planning) helps override impulses—strengthened by practice
+
+---
+
+## Overcoming Procrastination: Science-Backed Strategies
+
+- Break tasks into small, actionable steps
+- Use time management (Pomodoro, time-blocking)
+- Leverage tech tools: task managers, website blockers
+- Practice self-compassion
+
+---
+
+## Tech Solutions for Procrastination
+
+- AI-powered focus apps ([RescueTime](https://www.rescuetime.com/))
+- Habit trackers & gamification ([Habitica](https://habitica.com/))
+- Mindfulness apps ([Headspace](https://www.headspace.com/))
+
+---
+
+## Case Study: Tech Industry Approaches
+
+- Google's 20% time: structured procrastination for innovation
+- Hackathons: channeling urgency for creative breakthroughs
+
+---
+
+# Conclusion & References
+
+- Procrastination is a brain-based challenge, not a moral failing
+- Science and tech offer powerful tools to help us act
+- Start small, use the right tools, and be kind to yourself!
+
+**References:**
+- Steel, P. (2007). The Nature of Procrastination. Psychological Bulletin.
+- [Quarto Reveal.js Guide](https://quarto.org/docs/presentations/revealjs/)
+- [Reveal.js Official Site](https://revealjs.com/?demo) 
